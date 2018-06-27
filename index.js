@@ -16,7 +16,3 @@ function sayHiToGrandma() {
   console.log('hello')
   return 'I can\'t hear you!'.toLowerCase()
 }
-function sayHiToGrandma () {
-  console.log ('HELLO').toUpperCase()
-  return 'YES INDEED!'.toUpperCase()
-}
